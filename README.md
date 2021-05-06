@@ -4,7 +4,11 @@ This is project in Genomics Science
 
 
 Bioinformatics on Django
+
+
 Running Locally
+
+
 [clone]
 
 $ pipenv install
