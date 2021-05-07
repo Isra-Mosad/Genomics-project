@@ -33,15 +33,14 @@ then compare it with a query sequence with a library or database of sequences.
 What kind of tools did we use to overcome this problem?
 
 TOOLS :
-PHP :  is a server-side scripting language designed for the developers for web development.
-PHP codes are basically embedded into HTML code. It can also be used by combining with various web template systems as well as different web frameworks. PHP codes are processed by a PHP interpreter that is a module in the web server
-
-HTML5 : Hypertext Markup Language (HTML) can read HTML files and transfer them to visual or audible online web pages. By combining both PHP and HTML, 
-
-a website is designed successfully with color being added by CSS. HTML is based on many attributes
-
-Its main focus is to support the latest multimedia and also to keep it simple for the user on the World Wide Web. Some of the new features that HTML5 has included are , and elements in the attributes
-
+dj-database-url==0.4.2
+Django==1.8
+django-numpy==1.0.1
+gunicorn==19.7.1
+numpy==1.13.3
+psycopg2==2.7.4
+virtualenv==15.1.0
+whitenoise==3.3.1
 
 
 Algorithm :
