@@ -19,14 +19,11 @@ The Sequences module provides access to a database of peptide, DNA, and RNA exam
 
 The problem:
 
-
-
-
-
+We Need collection of sequence manipulation and statistical utilities in bioinformatics field, easy to use, and easy to understand
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
-TOOLS we use to overcome this problem :-
+TOOLS we used in our project :-
 
 
 dj-database-url==0.4.2
@@ -40,9 +37,13 @@ whitenoise==3.3.1
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
-Algorithm :-
+Algorithms :-
 
+-Reverse Complement.
 
+-Parse Motif
+
+-Parametric Fibonacci
 
 
 
