@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="694df07a-aa91-40d7-824e-5bcea302ff78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sBOXPWj62UuQIqxfVVcb0u8yAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.env" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694df07a-aa91-40d7-824e-5bcea302ff78" name="Default Changelist" comment="" />
+      <created>1620342554979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620342554979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="113" key="#Inspections" timestamp="1620342792857">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="432" y="113" key="#Inspections/74.0.1462.864@74.0.1462.864" timestamp="1620342792857" />
+    <state x="586" y="190" key="FileChooserDialogImpl" timestamp="1620342756788">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="586" y="190" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1620342756788" />
+    <state x="634" y="355" key="Github.CreateGistDialog" timestamp="1620343306129">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="634" y="355" key="Github.CreateGistDialog/74.0.1462.864@74.0.1462.864" timestamp="1620343306129" />
+  </component>
+</project>

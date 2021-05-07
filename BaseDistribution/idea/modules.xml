@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BaseDistribution.iml" filepath="$PROJECT_DIR$/.idea/BaseDistribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ComputeGC/.idea/ComputeGC.iml" filepath="$PROJECT_DIR$/../ComputeGC/.idea/ComputeGC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConsensusSequence/.idea/ConsensusSequence.iml" filepath="$PROJECT_DIR$/../ConsensusSequence/.idea/ConsensusSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data/.idea/Data.iml" filepath="$PROJECT_DIR$/../Data/.idea/Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HammingDistance/.idea/HammingDistance.iml" filepath="$PROJECT_DIR$/../HammingDistance/.idea/HammingDistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Include/.idea/Include.iml" filepath="$PROJECT_DIR$/../Include/.idea/Include.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lib/.idea/Lib.iml" filepath="$PROJECT_DIR$/../Lib/.idea/Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ParamFibo/.idea/ParamFibo.iml" filepath="$PROJECT_DIR$/../ParamFibo/.idea/ParamFibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ParseMotif/.idea/ParseMotif.iml" filepath="$PROJECT_DIR$/../ParseMotif/.idea/ParseMotif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProbabilityDom/.idea/ProbabilityDom.iml" filepath="$PROJECT_DIR$/../ProbabilityDom/.idea/ProbabilityDom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReverseComplement/.idea/ReverseComplement.iml" filepath="$PROJECT_DIR$/../ReverseComplement/.idea/ReverseComplement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scripts/.idea/Scripts.iml" filepath="$PROJECT_DIR$/../Scripts/.idea/Scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Transcriber/.idea/Transcriber.iml" filepath="$PROJECT_DIR$/../Transcriber/.idea/Transcriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Translator/.idea/Translator.iml" filepath="$PROJECT_DIR$/../Translator/.idea/Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../engine/.idea/engine.iml" filepath="$PROJECT_DIR$/../engine/.idea/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello/.idea/hello.iml" filepath="$PROJECT_DIR$/../hello/.idea/hello.iml" />
+    </modules>
+  </component>
+</project>

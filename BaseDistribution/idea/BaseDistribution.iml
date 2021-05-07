@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ComputeGC" />
+    <orderEntry type="module" module-name="ConsensusSequence" />
+    <orderEntry type="module" module-name="Data" />
+    <orderEntry type="module" module-name="engine" />
+    <orderEntry type="module" module-name="HammingDistance" />
+    <orderEntry type="module" module-name="hello" />
+    <orderEntry type="module" module-name="Include" />
+    <orderEntry type="module" module-name="Lib" />
+    <orderEntry type="module" module-name="ParamFibo" />
+    <orderEntry type="module" module-name="ParseMotif" />
+    <orderEntry type="module" module-name="ProbabilityDom" />
+    <orderEntry type="module" module-name="ReverseComplement" />
+    <orderEntry type="module" module-name="Scripts" />
+    <orderEntry type="module" module-name="Transcriber" />
+    <orderEntry type="module" module-name="Translator" />
+  </component>
+</module>
